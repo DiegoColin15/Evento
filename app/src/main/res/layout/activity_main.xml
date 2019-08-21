@@ -235,7 +235,7 @@
 
     </ScrollView>
 
-    <!-- FALTA AGREGAR: Cupo, No sesiones, PonenteREgistros Minimos, REgistros max, activo s/n, Hora.  -->
+    <!-- FALTA AGREGAR: Cupo, No sesiones, Ponente, REgistros Minimos, REgistros max, activo s/n, Hora.  -->
 
 
 
@@ -253,6 +253,11 @@
     <!-- HISTORIAL MODIFICACIONES -->
 
     <!-- Creado viernes 16 de Agosto 2019
+           Diego Colin
+           diegocolin95@gmail.com
+           WA 557006 7322                    -->
+
+    <!-- Modificacion 21 de Agosto 2019
            Diego Colin
            diegocolin95@gmail.com
            WA 557006 7322                    -->
